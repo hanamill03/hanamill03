@@ -1,18 +1,12 @@
 ![BannerPNG](HANNAHBANNER.png)
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
-
-## 👩‍💼 About Me :
- <div>
-  I am a **Human Systems Engineering** student with a concentration in **UI/UX Design** attending **Arizona State University**. 
-  </div>
- <p></p>
-- 🪴: Currently a Honors student attending Barrett the Honors College
+# Hello there !
+## About Me :
+<ul>
+- 🪴: Barrett Honors College Undergraduate Student majoring in Human Systems Engineering (UI/UX Concentration) at Arizona State University
 - ⚡: A student leader representing the Polytechnic Campus for Barrett Honors College Council
-- 📬:Reach me at: www.linkedin.com/in/hannah-milleson-aa05b31a2
- </p>
-
+</ul>
 ## 🎨 Projects
-- 💻 : Check out my <u>[website]([https://hannahymilleson.wixsite.com/webfolio/projects-6])</u> !
+- 💻 : Check out my [website]([https://hannahymilleson.wixsite.com/webfolio/projects-6])!
 
 
 ## 📊 Github Stats
