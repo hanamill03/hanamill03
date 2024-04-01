@@ -4,7 +4,7 @@
 🪴: Barrett Honors College Undergraduate Student majoring in Human Systems Engineering (UI/UX Concentration) at Arizona State University.\
 ⚡: A student leader representing the Polytechnic Campus for Barrett Honors College Council.
 ## 🎨 Projects
-💻 : Check out my [website]([https://hannahymilleson.wixsite.com/webfolio/projects-6])!
+💻 : Check out my [website](https://hannahymilleson.wixsite.com/webfolio/projects-6)!
 
 
 ## 📊 Github Stats
