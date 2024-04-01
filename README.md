@@ -6,7 +6,7 @@
 ## Projects:
 💻 : Check out my [website](https://hannahymilleson.wixsite.com/webfolio/projects-6)!
 ## Contact:
-📫Reach me at [LinkedIn](https://www.linkedin.com/in/hannah-milleson-aa05b31a2/)
+ 📫: Reach me at [LinkedIn](https://www.linkedin.com/in/hannah-milleson-aa05b31a2/)
  - [hannahymilleson@gmail.com](mailto:hannahymilleson@gmail.com)
  - [hmilleso@asu.edu](mailto:hmilleso@asu.edu)
 ## Github Stats:
