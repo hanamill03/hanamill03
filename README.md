@@ -2,7 +2,7 @@
  Hello there !  
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-### 👩‍💼 About Me :
+## 👩‍💼 About Me :
   I am a **Human Systems Engineering** student with a concentration in **UI/UX Design** attending **Arizona State University**. 
 - 🪴: Currently a Honors student attending Barrett the Honors College
 - ⚡: A student leader representing the Polytechnic Campus for Barrett Honors College Council
